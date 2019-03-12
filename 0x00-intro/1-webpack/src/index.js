@@ -1,3 +1,1 @@
-$(function () {
-    $('h1').text('Holberton School');
-});
+console.log('Holberton School');
