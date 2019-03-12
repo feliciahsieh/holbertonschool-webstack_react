@@ -1,1 +1,1 @@
-console.log('Holberton School');
+$('h1').text("Holberton School");
