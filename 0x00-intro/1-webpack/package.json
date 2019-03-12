@@ -1,10 +1,10 @@
 {
   "name": "1-webpack",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --config webpack.config.js"
   },
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "license": "MIT",
   "dependencies": {
     "path": "^0.12.7",
