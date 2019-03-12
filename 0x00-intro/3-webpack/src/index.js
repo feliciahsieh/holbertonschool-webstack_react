@@ -1,5 +1,5 @@
 import $ from 'jquery';
 
 $(function () {
-   $('title').text('Holberton School webpack');
+   $('<h1>Holberton School</h1>').insertAfter('body');
 });
